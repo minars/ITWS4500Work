@@ -1,0 +1,19 @@
+body{
+	background-color: LightBlue;
+}
+.container{
+	width: 100%;
+	padding-top: 2%;
+	margin: auto;
+}
+.others{
+}
+.tweets{
+}
+
+.profile{
+	border-radius: 25%;
+}
+.text{
+	padding-left: 20px;
+}

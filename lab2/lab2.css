@@ -1,0 +1,14 @@
+body{
+	text-align: center;
+}
+#main{
+	margin: auto;
+	width: 80%;
+}
+.next{
+	height:30%;
+}
+.buttons{
+	width: 80%;
+	margin: auto;
+}
